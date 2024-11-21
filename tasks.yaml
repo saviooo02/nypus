@@ -1,0 +1,33 @@
+conduct_market_research:
+  description: >
+    Research and analyze the market for {product/service}. Identify:
+    - Top competitors
+    - Current trends
+    - Key opportunities
+  expected_output: >
+    A detailed report with market insights, competitor analysis, and recommendations.
+
+create_content_plan:
+  description: >
+    Develop a content strategy for {product/service} targeting {audience}.
+    Include blog topics, social media posts, and video ideas.
+  expected_output: >
+    A content plan in a structured document with specific actions.
+
+optimize_website_seo:
+  description: >
+    Analyze the website's SEO performance and suggest improvements. Focus on:
+    - Keyword optimization
+    - Technical SEO
+    - Link-building strategies
+  expected_output: >
+    A report outlining SEO analysis and actionable recommendations.
+
+launch_ad_campaign:
+  description: >
+    Plan and launch an ad campaign for {product/service}. Include:
+    - Ad copy
+    - Targeting strategy
+    - Performance metrics
+  expected_output: >
+    A detailed campaign strategy and performance summary.
