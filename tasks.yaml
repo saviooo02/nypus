@@ -23,11 +23,3 @@ optimize_website_seo:
   expected_output: >
     A report outlining SEO analysis and actionable recommendations.
 
-launch_ad_campaign:
-  description: >
-    Plan and launch an ad campaign for {product/service}. Include:
-    - Ad copy
-    - Targeting strategy
-    - Performance metrics
-  expected_output: >
-    A detailed campaign strategy and performance summary.
